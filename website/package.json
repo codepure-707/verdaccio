@@ -18,13 +18,13 @@
     "eslint:write": "eslint src/**/*.tsx --fix"
   },
   "dependencies": {
-    "@docusaurus/core": "3.6.3",
+    "@docusaurus/core": "3.9.0",
     "@docusaurus/plugin-content-docs": "3.6.3",
     "@docusaurus/plugin-google-analytics": "3.6.3",
-    "@docusaurus/preset-classic": "3.6.3",
+    "@docusaurus/preset-classic": "3.9.0",
     "@docusaurus/remark-plugin-npm2yarn": "3.6.3",
     "@docusaurus/theme-common": "3.6.3",
-    "@docusaurus/theme-mermaid": "3.6.3",
+    "@docusaurus/theme-mermaid": "3.9.0",
     "@docusaurus/theme-search-algolia": "3.6.3",
     "@emotion/cache": "11.10.7",
     "@emotion/css": "11.13.0",
