@@ -49,7 +49,7 @@
     "@verdaccio/server-fastify": "workspace:8.0.0-next-8.15",
     "core-js": "3.40.0",
     "debug": "4.4.0",
-    "lodash": "4.17.21"
+    "lodash": "4.17.23"
   },
   "devDependencies": {
     "@verdaccio/types": "workspace:13.0.0-next-8.5",
