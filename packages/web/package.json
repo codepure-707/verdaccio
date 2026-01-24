@@ -40,7 +40,7 @@
     "@verdaccio/utils": "workspace:8.1.0-next-8.15",
     "debug": "4.4.0",
     "express": "4.21.2",
-    "lodash": "4.17.21"
+    "lodash": "4.17.23"
   },
   "devDependencies": {
     "@verdaccio/api": "workspace:8.1.0-next-8.15",
